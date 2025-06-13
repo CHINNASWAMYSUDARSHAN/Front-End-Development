@@ -1,0 +1,58 @@
+form{
+    background-color: bisque;
+    border: 4px solid black;
+    padding-left: 200px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+    font-size: 20px;
+    color:white;
+     background:radial-gradient(circle,rgb(241, 0, 189),rgb(4, 7, 160),rgb(86, 212, 13));
+
+
+
+}
+body{
+    padding:20px;
+     background:radial-gradient(circle at top left,rgb(228, 83, 83),rgb(95, 211, 95),rgb(106, 106, 196));
+
+
+}
+marquee{
+    color: rgb(2, 243, 2);
+    background-color: rgb(252, 5, 211);
+    border-radius: 50%;
+    width: 100;
+    border:3px solid rgba(35, 247, 7, 0.699);
+    text-shadow: 7px 5px 3px rgb(199, 21, 51);
+    font-size: 20px;
+}
+legend{
+    color: aqua;
+    text-shadow: 3px 3px 3px red;
+    padding-left: 10px;
+    padding-right: 10px;    
+    border-radius: 50px;
+
+}
+fieldset{
+    border: 2px solid ;
+     
+     background: conic-gradient(from 270deg, rgb(207, 76, 76), yellow, rgb(29, 194, 29));
+
+    border-radius: 40px;
+    
+}
+input{
+    color:black;
+    background-color:rgb(183, 135, 228);
+}
+input:focus{
+    color:red;
+    background-color: white;
+}
+input::placeholder{
+    color: rgb(212, 226, 18);
+}
+

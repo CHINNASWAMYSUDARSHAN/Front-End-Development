@@ -1,0 +1,13 @@
+.tra{
+    height: 300px;
+    width: 200px;
+    background-color: aqua;
+    margin: 40px;
+    transition:all 3s ease 3s;
+}
+.tra:hover{
+    background-color: blueviolet;
+    height: 400px;
+    width: 300px;
+
+}

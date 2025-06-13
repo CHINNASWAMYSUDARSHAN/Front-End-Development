@@ -1,0 +1,33 @@
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    margin-bottom: 10px;
+
+    text-align: center;
+
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color:blueviolet;
+
+}
+body{
+    border: 10px solid black;
+    padding: 20px;
+background-image: url(./pic.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;    
+background-attachment:fixed;
+
+}
+p{
+    text-align: center;
+    margin-bottom: 0%;
+}
+.par{
+    text-align:justify;
+    
+}

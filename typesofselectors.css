@@ -1,0 +1,18 @@
+*{
+    color: rgb(209, 8, 228);
+    background-color: white;
+}
+h2,h3{
+    color: black;
+}
+.suda{
+    color: rgba(10, 241, 106, 0.877);   
+}
+div>p{
+    color: blue;
+    background-color: rgb(2, 221, 2);
+}
+div p{
+    color: rgb(32, 9, 240);
+    background-color: rgb(8, 243, 8);
+}
